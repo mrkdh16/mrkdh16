@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrkdh16
+- 👀 I’m interested in competitive programming/artificial intelligence/cybersecurity/game dev
+- 🌱 I’m currently in high school
+- 💞️ I’m looking to collaborate on any interesting project
+- 📫 How to reach me mark.dh.rhee@gmail.com
