@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mrkdh16
-- 👀 I’m interested in competitive programming/artificial intelligence/cybersecurity/game dev
-- 🌱 I’m currently in high school
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me mark.dh.rhee@gmail.com
+- Hi, I’m @mrkdh16
+- I’m interested in math and artificial intelligence/machine learning.
+- I’m an intended applied math major at UC Berkeley.
+- You can reach me at rhee3553@gmail.com
