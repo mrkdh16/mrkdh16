@@ -1,4 +1,1 @@
-- Hi, I’m @mrkdh16
-- I’m interested in math and ml.
-- I’m an intended applied math major at UC Berkeley.
-- You can reach me at rhee3553@gmail.com
+hello there
